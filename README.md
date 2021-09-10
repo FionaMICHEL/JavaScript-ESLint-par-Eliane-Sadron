@@ -1,1 +1,1 @@
-# JavaScript-ESLint-par-Eliane-Sadron
+# JavaScript, ESLint par Eliane Sadron
